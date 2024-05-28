@@ -109,7 +109,7 @@
 
 .grid {
     content: "";
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3757878151260504) 0%, rgba(0, 0, 0, 0.85) 100%);
+    background: linear-gradient
     display: block;
     position: absolute;
     top: 0;
